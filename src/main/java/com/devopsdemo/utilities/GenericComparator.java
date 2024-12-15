@@ -15,7 +15,7 @@ import java.util.Date;
 * This is an adaptation of a genenic comparator found on github linked from myjeeva.com 
 * Many thanks for the code!
 */
-
+// change made
 @SuppressWarnings("rawtypes")
 public class GenericComparator implements Comparator, Serializable {
 	protected static final long serialVersionUID = -2293914106471884607L;
