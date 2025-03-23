@@ -133,7 +133,7 @@ public class AddressbookUI extends UI {
                 Contact.class, service.findAll(stringFilter)));
         contactForm.setVisible(false);
     }
-
+// this is change
     /*
      * Deployed as a Servlet or Portlet.
      *
